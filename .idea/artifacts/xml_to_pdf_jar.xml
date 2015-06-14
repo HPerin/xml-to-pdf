@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xml-to-pdf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xml_to_pdf_jar</output-path>
+    <root id="archive" name="xml-to-pdf.jar">
+      <element id="module-output" name="xml-to-pdf" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/itextpdf-5.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/itext-pdfa-5.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/itext-xtra-5.5.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
